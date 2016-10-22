@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,fire aura,
+petChanges,,
+petSkillName,records/skills/playerclasswitchdoctor/pets/zombiedog_skill_ringofflame.dbr,
+fileNameHistoryEntry,mods/witch_doctor/records/skills/playerclasswitchdoctor/summon_dogs2.dbr,

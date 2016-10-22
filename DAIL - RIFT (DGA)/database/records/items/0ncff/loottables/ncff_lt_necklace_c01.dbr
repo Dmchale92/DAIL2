@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;8;65,
+records,records/items/loottables/misc/tdyn_potions_a01.dbr;records/items/0ncff/loottables/ncff_tdyn_necklace_c01.dbr;records/items/0ncff/loottables/ncff_tdyn_necklace_c01b.dbr,

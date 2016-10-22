@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/items/0ncff/lend/sets/skills/item_ran_howl_buff.dbr,
+pointBlank,1,

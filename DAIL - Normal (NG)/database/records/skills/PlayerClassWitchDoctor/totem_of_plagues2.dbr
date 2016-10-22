@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,reduce resistances,
+petSkillName,records/skills/playerclasswitchdoctor/pets/totemaura_resistances.dbr,
+petChanges,,

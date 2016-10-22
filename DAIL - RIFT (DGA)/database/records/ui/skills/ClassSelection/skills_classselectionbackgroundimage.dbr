@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+ActorName,,
+Class,,
+FileDescription,Selection Background,
+bitmapName,ui/skills/classselection/skills_classselectionbackgroundimage.tex,
+bitmapPositionX,-70,
+bitmapPositionY,0,
+rollover,,

@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/stalker/passive2_markfordeath_procbuff.dbr,
+pointBlank,0,

@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/playerclasswitchdoctor/pets/fetish_skill_decrepify_buff.dbr,
+pointBlank,,

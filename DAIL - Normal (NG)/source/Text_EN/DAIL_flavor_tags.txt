@@ -1,0 +1,86 @@
+tagGrimmestZombieHeroH11=Jiaco, this Monster Has No Name
+tagGrimmestZombieHeroH12=Depravities, the Depraved 
+tagGrimmestReanimatorHeroH01diseased=Aethoranest, this Diseased Monster Has No Name
+tagGrimmestReanimatorHeroH02unstoppable=Gollorgest, this Unstoppable Monster Has No Name
+tagGrimmestReanimatorHeroH03reflective=Corpsefire-est, this Reflective Monster Has No Name
+tagGrimmestReanimatorHeroH04defender=Azgaloggest, this Defender Has No Name
+
+
+tagNPC_Guard_Kath=Kathanious - ^oDavoodian Acolyte
+
+#Loading Tips
+tagLoadingTip01=
+tagLoadingTip02= 
+tagLoadingTip03=
+tagLoadingTip04= 
+tagLoadingTip05= 
+tagLoadingTip06= 
+tagLoadingTip07= 
+tagLoadingTip08= 
+tagLoadingTip09= 
+tagLoadingTip10= 
+tagLoadingTip11= 
+tagLoadingTip12= 
+tagLoadingTip13= 
+tagLoadingTip14= 
+tagLoadingTip15= 
+tagLoadingTip16= 
+tagLoadingTip17= 
+tagLoadingTip18= 
+tagLoadingTip19= 
+tagLoadingTip20= 
+
+
+#Top Left UI Tag
+#tagRDifficultyTitle01=Normal 57 (S)
+#tagRDifficultyTitle02=Elite 57 (S)
+#tagRDifficultyTitle03=Ultimate 57 (S)
+#tagChallengeDifficulty=Veteran 57 (S)
+#tagHardcore=Hardcore 57 (S)  
+
+#tagRDifficultyTitle01=Normal 57 (B)
+#tagRDifficultyTitle02=Elite 57 (B)
+#tagRDifficultyTitle03=Ultimate 57 (B)
+#tagChallengeDifficulty=Veteran 57 (B)
+#tagHardcore=Hardcore 57 (BS)  
+
+tagRDifficultyTitle01=Normal 57 (NG)
+tagRDifficultyTitle02=Elite 57 (NG)
+tagRDifficultyTitle03=Ultimate 57 (NG)
+tagChallengeDifficulty=Veteran 57 (NG)
+tagHardcore=Hardcore 57 (NG)  
+
+
+#Transmorg Smith
+tagNPC_transmogsmith=^oTibia the Tailor
+tagStoreTitle_transmogsmith=^rBony craftsman
+tagStoreDesc_transmog_1=Tibia uses ancient arkovian techniques 
+tagStoreDesc_transmog_2=to scam..ehm.. craft your equipment into legendary gear of old. No refunds.
+tagStoreDesc_transmog_3=
+tagStoreDesc_transmog_4=^gCompletion bonus:^r currently unavailable.
+tagTransmogScroll=Sexy Blueprint
+
+#Transmorg Cratebox
+tagConsumableTransmogDesc=^y"What's in the box?!?!" ^n^h -Last words of Master Millus, as he reached for the crate presented to him by Oswald Hargate at the Arcanum Society.
+tagConsumableTransmog=CrateBox
+
+
+#DAIL NEMESIS NOTIFIERS
+DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
+DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive... The Iron Maiden draws near!
+DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver as you feel a presence nearby.....
+DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. someone with a very strong intention to kill you...
+DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you as you begin to notice the faint smell of lavender....
+
+
+#DAIL STUFFS
+tagDAILgiftnpc01=^rDavoodinator
+tagDAILgiftnpc01A=^wStuffs
+tagDAILgiftMat01=^sApprentice's Ambition^n^w(Use in amulets)
+tagDAILgiftMat01a=Rough Stone
+tagDAILgiftMat02=^sJourneyman's Skill^n^w(Use in amulets)
+tagDAILgiftMat02a=Polished stone 
+tagDAILgiftMat03=^sMaster's Wisdom^n^w(Use in amulets)
+tagDAILgiftMat03a=Precious stone
+

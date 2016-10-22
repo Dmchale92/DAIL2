@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,,
+buffSkillName,records/skills/playerclasswitchdoctor/haunt_buff.dbr,
+fileNameHistoryEntry,mods/witch_doctor/records/skills/playerclasswitchdoctor/haunt.dbr,

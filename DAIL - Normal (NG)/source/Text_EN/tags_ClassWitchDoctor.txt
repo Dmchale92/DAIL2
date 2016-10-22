@@ -1,0 +1,160 @@
+tagSkillClassDescriptionWitchDoctor=Witch doctors are spiritual warriors who summon dead souls and crawling creatures to do their bidding. By surrounding themselves with conjured zombies, witch doctors are free to assault their enemies with deadly projectiles, toxic totems, and wasting curses.
+
+#ClassWitchDoctor
+tagClassWitchDoctorSkillName00=^iWitch Doctor
+tagClassWitchDoctorSkillDescription00="The spirits smile upon me."
+
+tagClassWitchDoctorSkillName01A=Poison Dart
+tagClassWitchDoctorSkillDescription01A=Shoot a deadly Poison Dart that deals piercing and acid damage.
+
+tagClassWitchDoctorSkillName01B=Splinters
+tagClassWitchDoctorSkillDescription01B=Gain additional darts that deal poison damage. The total damage of each Poison Dart is decreased though.
+
+tagClassWitchDoctorSkillName01C=Spined Dart
+tagClassWitchDoctorSkillDescription01C=Gain energy every time a Poison Dart hits an enemy. Deals physical damage and increases acid damage.
+
+tagClassWitchDoctorSkillName01D=Flaming Dart
+tagClassWitchDoctorSkillDescription01D=Ignite the dart, dealing fire and burn damage to enemies.
+
+tagClassWitchDoctorSkillName02A=Corpse Spiders
+tagClassWitchDoctorSkillDescription02A=Throw a poisoned jar with a spider that attack nearby enemies, dealing physical and poison damage. ^oWhen it reaches the maximum level, you'll throw a bigger jar with a Spider Queen inside. The Spider Queen will summon 2 Black Widows to fight with her as long as she lives.
+
+tagClassWitchDoctorSkillName02B=Widow's Bite
+tagClassWitchDoctorSkillDescription02B=The spider bites the target, immobilizing him for a second, and dealing acid damage.
+
+tagClassWitchDoctorSkillName02C=Ring of Plagues
+tagClassWitchDoctorSkillDescription02C=An aura surrounds the spider, dealing poison damage to all nearby enemies.
+
+tagClassWitchDoctorSkillName02D=Venom and Bites
+
+tagClassWitchDoctorSkillName02E=The Queen Desires
+
+tagClassWitchDoctorSkillName03A=Zombie Dogs
+tagClassWitchDoctorSkillDescription03A=Summon 3 Zombie Dogs from the depths to fight by your side. ^oWhen it reaches the maximum level, the Zombie Dogs will be able to summon other 3 dogs to fight with them for 30 seconds.
+
+tagClassWitchDoctorSkillName03B=Chilled to the Bone
+tagClassWitchDoctorSkillDescription03B=Launch a cold wave that deals damage to all enemies in front of the zombie dogs.
+
+tagClassWitchDoctorSkillName03C=Poisoned Bite
+
+tagClassWitchDoctorSkillName03D=Burning Dogs
+tagClassWitchDoctorSkillDescription03D=Your Zombie Dogs burst into flames, burning nearby enemies for a few seconds.
+
+tagClassWitchDoctorSkillName03E=Sacrifice
+
+tagClassWitchDoctorSkillName03F=Summon Damned Dogs
+
+tagClassWitchDoctorSkillName03G=Claws and Teeth
+
+tagClassWitchDoctorSkillName03H=Damnation
+
+tagClassWitchDoctorSkillName03I=Scorched Earth
+
+tagClassWitchDoctorSkillName04A=Firebats
+tagClassWitchDoctorSkillDescription04A=Launch a swarm of fiery bats to burn enemies in front of you.
+
+tagClassWitchDoctorSkillName04B=Plague Bats
+tagClassWitchDoctorSkillDescription04B=Diseased bats fly towards the enemy and infect them, dealing poison damage over 3 seconds.
+
+tagClassWitchDoctorSkillName05A=Horrify
+tagClassWitchDoctorSkillDescription05A=Summon spectral spirits that horrifies all enemies around you, causing them to tremor in fear and be immobilized for a second.
+
+tagClassWitchDoctorSkillName05B=Phobia
+tagClassWitchDoctorSkillDescription05B=Enemies run in fear after being immobilized.
+
+tagClassWitchDoctorSkillName06A=Soul Harvest
+tagClassWitchDoctorSkillDescription06A=Create a magical field that feeds on the life force of enemies, dealing physical and elemental damage to them. A percentage of the total damage dealt is converted to health.
+
+tagClassWitchDoctorSkillName06B=Languish
+tagClassWitchDoctorSkillDescription06B=Reduces resistances and total speed of enemies for a few seconds.
+
+tagClassWitchDoctorSkillName07A=Haunt
+tagClassWitchDoctorSkillDescription07A=Haunt an enemy with a spirit, dealing cold damage over seconds. The spirit haunts another nearby enemy after 2 seconds.
+
+tagClassWitchDoctorSkillName07B=Consuming Spirit
+tagClassWitchDoctorSkillDescription07B=The spirit burns enemies. It heals you for half of the damage dealt.
+
+tagClassWitchDoctorSkillName08A=Zombie Charger
+tagClassWitchDoctorSkillDescription08A=Call forth a reckless, suicidal zombie that deals poison damage to all enemies in its path before decomposing. ^oWhen it reaches the maximum level, you will summon a Horned Yeti who lives for 12 seconds.
+ 
+tagClassWitchDoctorSkillName08B=Zombie Charge
+
+tagClassWitchDoctorSkillName08C=Walking Plague
+
+tagClassWitchDoctorSkillName08D=Cold Slashes
+
+tagClassWitchDoctorSkillName08E=Freezing Slam
+
+tagClassWitchDoctorSkillName09A=Spirit Barrage
+tagClassWitchDoctorSkillDescription09A=Launch a spirit bolt at enemies that deals cold damage and frostburn damage over 2 seconds.
+
+tagClassWitchDoctorSkillName09B=Well of Souls
+tagClassWitchDoctorSkillDescription09B=Release additional spirit bolts on impact, dealing fire damage to other targets.
+
+tagClassWitchDoctorSkillName10A=Spirit Walk
+tagClassWitchDoctorSkillDescription10A=Enter in a deep state between your body and soul, becoming unvulnerable for 2 seconds.
+
+tagClassWitchDoctorSkillName10B=Healing Journey
+tagClassWitchDoctorSkillDescription10B=Gain bonus life regeneration and increased speed while Spirit Walk is activated.
+
+tagClassWitchDoctorSkillName11A=Totem of Plagues
+tagClassWitchDoctorSkillDescription11A=Spawn a totem that releases a toxic smoke, dealing poison damage to all enemies in area.
+
+tagClassWitchDoctorSkillName11B=Toxic Nova
+
+tagClassWitchDoctorSkillName11C=Kiss of Death
+tagClassWitchDoctorSkillDescription11C=Consumes the life of all enemies in area and reduces their resistances.
+
+tagClassWitchDoctorSkillName12A=Mass Confusion
+tagClassWitchDoctorSkillDescription12A=Incite paranoia in enemies, confusing them and causing some to be charmed and fight for you for a few seconds.
+
+tagClassWitchDoctorSkillName13A=Wall of Death
+tagClassWitchDoctorSkillDescription13A=Raise a wall of zombies from the ground that attacks enemies for a few seconds. ^oWhen it reaches the maximum level, it turns into a Wall of Fire that burns all enemies that pass through it.
+
+tagClassWitchDoctorSkillName13B=Zombie Army
+
+tagClassWitchDoctorSkillName13C=Frostdead Presence
+
+tagClassWitchDoctorSkillName14A=Spiritual Attunement
+tagClassWitchDoctorSkillDescription14A=Gives you bonus mana regeneration and increases the maximum energy.
+
+tagClassWitchDoctorSkillName15A=Spirit Vessel
+tagClassWitchDoctorSkillDescription15A=When you lose a certain amount of health, you automatically enter the spirit realm for 2 seconds, restoring a portion of your maximum life.
+
+tagClassWitchDoctorSkillName16A=Jungle Fortitude
+tagClassWitchDoctorSkillDescription16A=Reduces all damage taken by you, and increases the maximum life of your pets.
+
+tagClassWitchDoctorSkillName16B=Midnight Feast
+tagClassWitchDoctorSkillDescription16B=The damage of your pets is increased while the Jungle Fortitude is activated.
+
+tagClassWitchDoctorSkillName17A=Fetish Army
+tagClassWitchDoctorSkillDescription17A=Summon an army of 5 Fetish Warriors to fight by your side for 20 seconds.
+
+tagClassWitchDoctorSkillName17B=Tiki Torchers
+tagClassWitchDoctorSkillDescription17B=The Fetish Warriors summon Fetish Shamans to fight with them as long as they live.
+
+tagClassWitchDoctorSkillName17C=Fireball
+
+tagClassWitchDoctorSkillName17D=Fetish Savagery
+
+tagClassWitchDoctorSkillName17E=Decrepify
+
+Pets:
+
+tagPetFetish=Fetish Warrior
+tagPetFetishShaman=Fetish Shaman
+tagPetCorpseSpiders=Black Widow
+tagPetSpiderQueen=Spider Queen
+tagPetSummonDogs=Zombie Dogs
+tagPetZombieCharger=Zombie Charger
+tagPetTotemofPlagues=Totem of Plagues
+tagPetWallofDeath=Zombies
+tagPetWallofFire=Wall of Fire
+tagPetHornedYeti=Horned Yeti
+tagPetDamnedDogs=Damned Dogs
+
+
+
+
+
+

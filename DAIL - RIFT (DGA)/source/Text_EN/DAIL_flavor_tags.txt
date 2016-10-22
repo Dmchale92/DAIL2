@@ -1,0 +1,59 @@
+tagGrimmestZombieHeroH11=This Monster Has No Name
+tagGrimmestZombieHeroH12=Depravities, the Depraved
+
+tagNPC_Guard_Kath=Kathanious - ^oDavoodian Acolyte
+
+#Loading Tips
+tagLoadingTip01=^g[DAIL] ^wDGA
+tagLoadingTip02=^g[DAIL] ^wDGA 
+tagLoadingTip03=^g[DAIL] ^wDGA
+tagLoadingTip04=^g[DAIL] ^wDGA 
+tagLoadingTip05=^g[DAIL] ^wDGA 
+tagLoadingTip06=^g[DAIL] ^wDGA 
+tagLoadingTip07=^g[DAIL] ^wDGA 
+tagLoadingTip08=^g[DAIL] ^wDGA 
+tagLoadingTip09=^g[DAIL] ^wDGA 
+tagLoadingTip10=^g[DAIL] ^wDGA 
+tagLoadingTip11=^g[DAIL] ^wDGA 
+tagLoadingTip12=^g[DAIL] ^wDGA 
+tagLoadingTip13=^g[DAIL] ^wDGA 
+tagLoadingTip14=^g[DAIL] ^wDGA 
+tagLoadingTip15=^g[DAIL] ^wDGA 
+tagLoadingTip16=^g[DAIL] ^wDGA 
+tagLoadingTip17=^g[DAIL] ^wDGA 
+tagLoadingTip18=^g[DAIL] ^wDGA 
+tagLoadingTip19=^g[DAIL] ^wDGA 
+tagLoadingTip20=^g[DAIL] ^wDGA 
+
+#Top Left UI Tag
+tagRDifficultyTitle01=Normal DAIL 57
+tagRDifficultyTitle02=Elite DAIL 57
+tagRDifficultyTitle03=Ultimate DAIL 57
+tagChallengeDifficulty=Veteran DAIL 57
+tagHardcore=Hardcore DAIL 57
+
+#Transmorg Smith
+
+tagNPC_transmogsmith=^oTibia the Tailor
+tagStoreTitle_transmogsmith=^rBony craftsman
+tagStoreDesc_transmog_1=Tibia uses ancient arkovian techniques 
+tagStoreDesc_transmog_2=to scam..ehm.. craft your equipment into legendary gear of old. No refunds.
+tagStoreDesc_transmog_3=
+tagStoreDesc_transmog_4=^gCompletion bonus:^r currently unavailable.
+tagTransmogScroll=Sexy Blueprint
+
+#Transmorg Cratebox
+tagConsumableTransmogDesc=^y"What's in the box?!?!" ^n^h -Last words of Master Millus, as he reached for the crate presented to him by Oswald Hargate at the Arcanum Society.
+tagConsumableTransmog=CrateBox
+
+
+#DAIL NEMESIS NOTIFIERS
+DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
+DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive... The Iron Maiden draws near!
+DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver as you feel a presence nearby.....
+DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. someone with a very strong intention to kill you...
+DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you as you begin to notice the faint smell of lavender....
+
+
+

@@ -1,0 +1,366 @@
+Edit [10/21/2016 17:00] K
+
+****************************************************************
+****************************************************************
+
+Working Version: 57
+
+In Play:
+********
+NG	56.2
+B	56.2
+S	56.2
+DGA	56.2
+GDE	56.4
+
+To Do:
+********
+DAIL Stuffs - More?
+
+Update - Grim Quest v1.42
+	GQ Mastery expansions
+
+Update - Cornucpoia 0.3.2.J (No source yet)
+	Misc minor fixes
+	
+Post 50 mastery investment inquiries
+	
+****************************************************************
+****************************************************************
+
+
+
+[57 10/21/2016]
+Update - itemskills folder - jiaco
+	Component/item granted skills to work with spears
+
+Update - Cornucpoia 0.3.2.J
+	Misc minor fixes
+	
+[57 10/19/2016]
+Inquiry - Frost Pet
+	Works in test play
+
+Experimental Release
+	Change - male/femalepc01.dbr
+	Change - playerlevels.dbr
+		CharMaxlvl 100 -> 85
+		(Possible drop equation malfunction. Epics stuck at lvl 75)
+
+Update - Cornucopia 0.3.2.H
+	Base six masteries changed to Corn
+
+Merge - Grimer
+	Witch Doctor mastery, enumeration #29
+
+Change - gameengine.dbr
+	Max run 135 -> 165
+
+Change - Cenobite #28
+	Defensive stance requirements melee weapon -> shield
+
+[57 10/15/16]
+DAIL - Stuffs
+	Necklace components added
+		+1,+2,+3 all skills - price and level req scaled
+		
+[57 10/13/2016]
+DAIL - Stuffs
+	Davood merchant npc placed - spot to me moved for each release
+		Market table established - time to add stuffs
+	
+[57 10/12/2016]
+Update - Cornucopia 0.3.2H (Selective)
+	Devotions
+	Component skills
+	Itemskills/granted
+	Itemskills/pets
+	Itemskills/relics
+	Items/materia
+	Items/gear
+
+Magic - Omega Mod
+	Hero soul drops miracously working again
+		Deleted arz and resource folder = clean build = win
+
+[57 10/11/2016]
+Idea - Enumeration #29 and #30 class rotation
+	
+[57 10/9/2016]
+Change - Survival
+	Removed suspension on shrines granting attribute/skill points
+	
+Fixed - LostTreasures
+	LostTreasures.lua added to main.lua	
+		Treasure boss encountered during Cronley run!
+
+[56 10/8/2016]
+Fixed - Survival
+	Faction assignments - again
+		Test play good
+		
+[56 10/8/2016]
+Fixed - Survival missing spear textures
+	Adjusted GQmerge.bat - good merge
+	Repacked and uploaded 
+
+[56 10/8/2016]
+Fixed - Frost Knight
+	Frost Aura changed by dev to 2h melee skill - skill works, wrong tags
+
+Fixed - Missing GQ assets
+	Fixed merge batch file
+
+[56 10/7/2016]
+Fixed - misc tags
+	Coronus
+	Necro
+	
+Inquiry - Class
+	Illusionist - pet good
+	Frost Knight - pet good
+
+Sync & Distribution
+	Dumped batches and installer again for easier file management.
+		Resources not populating all install modes.
+
+Change - Survival
+	Faction assignment to prevent friendly wave spawns
+		Kymon, user6 -> Outlaws
+		DeathVigil, user8 -> Undead
+
+Fixed - Illusionist
+	Changeling Pet
+		Missing database/records/creatures/enemies/dd_anim_changeling.dbr
+	My Reflection
+		Missing item entries for appearance
+		
+[56 10/5/2016]
+Updates
+	Omega Quest v0.3
+		Still no hero soul drops		
+	Grim Dawn: Eternal (Survival) v0.977
+		Custom DAIL faction script changes maintained
+		Test play good
+		
+[56 9/30 20:00]
+Clean-up cont. pt2 (where is this coming from?)
+	Frost Knight pet malfunction
+		Updated FK 
+			Changed - controller/hellhound
+			Changed - bio Demonology -> frostknightclass
+		Updated Enchanter	
+	Enable - Cratebox
+	Fixed - Illusionist tags 
+		class08 -> class15
+	Fixed - Terror Knight tags 
+		class16 -> class 13
+	Fixed - Elementalist tags 
+		class17 -> class12
+	Inquiry - Engineer turrents 
+			Functions 
+	DAIL Gift script disabled 
+	Omega Orbs
+		onherodeath -> 30% soul gain (script 100%)
+		onbossdeath -> 100% soul gain (script 100&)
+			Script matches source
+		
+
+[56 9/27 19:40]
+Inquiry - Potions - DAIL gifts sequence
+	DAIL.lua >> give character >> dailRNGpot.dbr >> itemskills/dailskillsummonX >> summons >> merchants/dailclassplusserX npc >> offers >> loottabes/dailoneskill000X >> containing >> materia/classX
+	Test play does not give player potion, rather picks up at dailskillsummonX
+
+Clean-up cont.
+	Inquiry - gameengine.dnr
+		59 Devotions, increased stash
+	Inquiry - records/inventor/dismantle
+		Omega orb
+	Inquiry - records/inventor/crafting
+		GQ generic spear/staff production
+	Inquiry - records/items/lootchest/chestloottables/moneygerators
+		changed for less money drop?
+	Inquiry - records/items/lootchests
+		mod wanez entries
+	Removed - records/items/loreobjects
+		vanilla dbr (in back-up if needed)
+	Removed - records/items/lootchests/oneshotchests
+		vanilla dbr (in  back-up if needed)
+
+[56 9/26 20:35]
+Pull #80 Merged
+Clean-up
+	Removed - Skelethon tags/items
+	Removed - Autoloot files 
+		Attempted to implement - crashes DAIL
+	Investigated simple bugs - see DAIL/Bugs thread
+
+[56 9/24]
+UI Fixed - Again
+	Added texture to mastery background
+		source/ui/skills/skills_classwindowbackgroundimage.tga
+	Loading screen image changed
+		source/ui/loading
+	Fixed - odd Engineer data field changes? (Tag07 instead of 27, wrong xy)
+		Skills_classselectiontable.dbr
+	Class Selection
+		All buttons and txt dbr headers labeled for tracking
+		All buttons and txt XY good
+	
+QOL 
+	_Enumeration_List.txt added to records/UI/skills, records/skills, and Dev_Info
+	Changed some class selection and class selected image names to reflect image content
+		source/ui/skills classsection and skillallocation
+	Fixed - Mastery Selection background image
+	Fixed - Coronus skill tree and tags -(re)updated
+	Fixed - Fangshi tree titled Coronus (tagclass09 overlap)
+	(re)updated Elementalist and Terror Knight
+
+[55 9/23]
+Epic battle vs git Necromancer
+	/XO switches removed from batch files
+HF Built
+	
+[55 9/22 22:00]
+Git er dun - back on track - so we thought
+	Batch files updated
+	Missing Rift assets uploaded to repo
+	Fixed - UI - again
+	All classes selectable and trees present.
+	New character gains xp (DAIL vanilla mode)
+		
+[55 9/19]
+QOL - Potions/Mercs
+	Added - Demon (Void Caller)  
+	Added - Demon Hunter 
+	Fixed - Arch Necromancer 
+	Fixed - Illusionist potions fixed
+
+TAG tweaks (Davood)
+
+[55 9/17]
+Mastery
+	Update - Coronus 2.0 
+
+[55 9/15 19:00]
+Mastery UI
+	Added color codes
+	Switched buttons to group by dev
+			
+[55 9/14 18:00]
+Masteries
+	Merged - Voidcaller  (Enumeration #25)
+	Merged - Demon Hunter (Enumeration #30)
+	Update - Darkest Dawn 1.1
+	Update - Zenith 0.3
+
+[55 9/10]
+Updated Priest - updated to v 3.4
+	Test play good.
+	
+[55 9/10 21:00]
+Improved - Tag orginization and removed double entries
+
+Improvement - Arlequin 
+	All skills now functions
+	Varius UI fixes
+	Redesigned what was once an incomplete buff based on raven/storm spirit
+
+Fixed - *Various Frost Knight issues - Updated to v 3.4
+	Frost Aura, Pet, UI tweaks
+	Test play good
+
+Fixed - *Engineer missing 3 bottom cross over skills. 
+	Requires special template to compile, included in source
+
+Fixed - *Missing Terror Knight#12 and Illusionist#13 skills_classselectedimage
+
+Fixed - *Selection buttons
+	Class selection UI polished
+
+Fixed - *Terror Knight tagSkillClassDescription13 missing
+
+Fixed - *Cenobite#28 
+	Class selection points to Fangshi
+		Incorrect pointer in UI/classtable.dbr
+	Class Image of Fangshi
+		tags_classselectedimage28 = Cenobite
+			Incorrect pointer in UI/classimage
+
+Fixed - *Fangshi#10 tree titled button Coronus#9(Cor)
+	tagSkillClassName10=Fangshi
+		Incorrect pointer in UI/classtable.dbr
+		
+Fixed - *Arch Necro#14 missing images, class table still functions - missing all image source material
+	Forgot GQmerge.bat after first compile
+
+Fixed - *Illusionist#15 missing images, class table still functions - missing all image source  material
+	Forgot GQmerge.bat after first compile
+		
+*Square icons with round borders look off
+	Done - Priest's "Great Charm of Water" icon, Frost Knight's "Glaciacian" icon, Terror Knight "Blood Rage" "Lust for Carnage" ?
+	Done - Fangshi
+	Ranger -
+	Necro - 
+	Cenobite - 
+		
+Fixed - *Missing spear tex
+	Forgot GQmerge.bat after first compile
+	
+[55 - 9/3]
+DAIL organization.
+	Git Issue function now utilized to track work tasks
+	Forum thread restructure for better information control and access
+	Produced various txt instructions in /_Dev_Info 
+
+054 - 8/31 [18:00]
+Synced with master. Reapplied lost data due to out of sync.
+devotion is capped @ 50 ??!?!?! - really??!?!? doesn't seem like it to me.
+	database/records/game/gameengine.dbr
+		playerDevotionCap,59,
+		Changed back to 55, know working value
+		Chanbged back to 59 after release :(
+054 - 8/30
+Fixed - "I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
+Fixed - "camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321"
+	database/records/game/gameengine.dbr
+		restord to vanilla
+Vanilla
+	CameraDepthFogClamp,-1.0,
+	CameraDistanceDefault,35.0,
+	CameraDistanceMax,45.0,
+	CameraDistanceMin,20.0,
+	CameraPitchDefault,48.0,
+	CameraPitchMin,38.0,
+DAIL
+	CameraDepthFogClamp,-1.0,
+	CameraDistanceDefault,5.0,
+	CameraDistanceMax,38.0,
+	CameraDistanceMin,2.5,
+	CameraPitchDefault,45.0,
+	CameraPitchMax,50.0,
+	CameraPitchMin,38.0,
+
+054 - 8/29
+Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
+	created and stored .tga DAIL/source/items/craftingparts/components/
+	created and stored .tex DAIL/assets/items/craftingparts/components/
+	componenta002_b.tex dual + 1/1
+	component_a04_coldstone_a.tex dual + 2/2
+	component_a81_wrathstone_a.tex class skill + 1
+	component_a83_taintedsoul_a.tex class skill + 3
+	component_a17_prismaticdiamond_a.tex mastery +1
+	component_a14_moltenskin_a.tex mastery +2
+	component_a01_amber_a.tex mastery +3
+
+054 - 8/27
+artwork for elementalist
+	Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
+artwork for terror knight
+	Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
+
+054 - 8/25
+Fixed - *(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+	database/records/ui/skill/class29/ClassTable.dbr  
+		Removed skill13.dbr entry, points to unused skill 
+		Removed skill14.dbr entry, points to unused skill

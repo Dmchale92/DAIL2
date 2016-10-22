@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Ring of Plagues,
+petSkillName,records/skills/playerclasswitchdoctor/pets/spider_skill_ringofplagues.dbr,
+petChanges,,
