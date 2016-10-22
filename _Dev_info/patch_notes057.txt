@@ -1,0 +1,19 @@
+Update - Grim Quest v1.42 - GQ Mastery expansions
+
+Update - itemskills folder - jiaco - Component/item granted skills to work with spears
+	
+Update - Cornucopia 0.3.2.H - Full update including base six masteries changed to Corn
+
+Merge - Grimer - Witch Doctor mastery, enumeration #29
+
+Change - gameengine.dbr - Max run 135 -> 165
+
+Change - Cenobite #28 - Defensive stance requirements melee weapon -> shield
+
+DAIL - Stuffs -	Necklace components added (+1,+2,+3 all skills - price and level req scaled)
+		
+Magic - Omega Mod - Hero soul drops miracously working again
+
+Change - Survival -	Removed suspension on shrines granting attribute/skill points
+	
+Fixed - LostTreasures -	LostTreasures.lua added to main.lua	- Treasure boss encountered during Cronley run!
