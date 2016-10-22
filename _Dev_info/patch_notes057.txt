@@ -14,6 +14,6 @@ DAIL - Stuffs -	Necklace components added (+1,+2,+3 all skills - price and level
 		
 Magic - Omega Mod - Hero soul drops miracously working again
 
-Change - Survival -	Removed suspension on shrines granting attribute/skill points
+Change - Survival - Removed suspension on shrines granting attribute/skill points
 	
-Fixed - LostTreasures -	LostTreasures.lua added to main.lua	- Treasure boss encountered during Cronley run!
+Fixed - LostTreasures -	LostTreasures.lua added to main.lua - Treasure boss encountered during Cronley run!
