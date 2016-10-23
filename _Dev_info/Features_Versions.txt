@@ -1,9 +1,9 @@
-[10/12/2016 20:30] K
+[10/21/2016 20:30] K
 
 ************************************************************************************
 ************************************************************************************
 
-	Versions and features in the DAIL compilation
+	Features, versions, and their authors, in the DAIL compilation
 
 ************************************************************************************
 ************************************************************************************
@@ -116,9 +116,8 @@ Arachnophobia [1.0] - Jiaco (Parked)
 Good-Looking [0.5] - Grim Dawg
 	http://www.grimdawn.com/forums/showthread.php?t=39701
 	Visual change
-	{With this mod you can change the appearance of your gear. All visible equipment can be modified, although medals only have 
-	{5 or so different looks. As you can see in the image above, the looks of swords, maces, daggers, and also scepters and axes 
-	{can be used on each other. You can also use this mod to take a look at the stats of high level items, like an ingame database.
+	{With this mod you can change the appearance of your gear.You can also use this mod to take a look at the stats of high 
+	{level items, like an ingame database.
 
 Cornucopia [0.3.2J] - Ceno & adoomgod
 	http://www.grimdawn.com/forums/showthread.php?t=43941
