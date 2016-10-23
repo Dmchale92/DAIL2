@@ -3,39 +3,33 @@ Edit [10/21/2016 17:00] K
 ****************************************************************
 ****************************************************************
 
-Working Version: 57
+Working Version: 58
 
 In Play:
 ********
-NG	56.2
-B	56.2
-S	56.2
-DGA	56.2
-GDE	56.4
+NG	57.0
+B	57.0
+S	57.0
+DGA	57.0
+GDE	57.0
 
 To Do:
 ********
 DAIL Stuffs - More?
-
-Update - Grim Quest v1.42
-	GQ Mastery expansions
-
 Update - Cornucpoia 0.3.2.J (No source yet)
 	Misc minor fixes
-	
 Post 50 mastery investment inquiries
 	
 ****************************************************************
 ****************************************************************
 
-
+[57 10/22/2016]
+Update - Grim Quest v1.42
+	GQ Mastery expansions
 
 [57 10/21/2016]
 Update - itemskills folder - jiaco
 	Component/item granted skills to work with spears
-
-Update - Cornucpoia 0.3.2.J
-	Misc minor fixes
 	
 [57 10/19/2016]
 Inquiry - Frost Pet
