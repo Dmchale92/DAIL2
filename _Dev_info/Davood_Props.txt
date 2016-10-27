@@ -1,0 +1,23 @@
+Mod author credits in Features_Versions.txt
+
+Thanks to Kathanious for doing pull requests and contributing to the DAIL project in a very special way.
+AngryWeasel for producing this video guide: https://www.youtube.com/watch?v=JhV_wq_G-rE
+Lumera Relendra for creating the DAIL steam group
+Thanks to Hardy who suggested using spoiler (actually SPOILER2) tags to clean up this post
+Thanks to Khalanos for tips on tag colours and sizes
+Thanks to TT300 for many UI fixes in this mod and others.
+Thanks to kriescher and Arendeth for making my .bat files great again
+Thanks to the following people for helping name the 426 combos (atm with 30 masteries.. will go up significantly if we have more cap haha)
+ThentyZ
+Ávohaj
+Helskerm
+ThentyZ
+Morrolan Edrien
+Vizas
+LordShigan
+Space Chefke
+Chris Baisan
+Oleg Martynov
+Trevor Manson
+SL AM
+Aaron Barton

@@ -1,4 +1,4 @@
-Edit [10/21/2016 17:00] K
+Edit [10/26/2016 17:00] K
 
 ****************************************************************
 ****************************************************************
@@ -7,22 +7,41 @@ Working Version: 58
 
 In Play:
 ********
-NG	57.0
-B	57.0
-S	57.0
-DGA	57.0
-GDE	57.0
-
-To Do:
+NG	57.1
+B	57.1
+S	57.1
+DGA	57.1
+GDE	57.1.F
 ********
+
 DAIL Stuffs - More?
 Update - Cornucpoia 0.3.2.J (No source yet)
 	Misc minor fixes
 Post 50 mastery investment inquiries
 Update - NCFF 1.10
+Update - GQ after additional bug fix time period
+FX Pet - Again?
+Cenobite Shield Bash (strikes on 2nd hit, spec 4th hit)
 	
 ****************************************************************
 ****************************************************************
+
+
+[58 10/26/2016]
+Release - Experimental version for loot test
+
+Fixed - Fangshi broken tag
+
+Fixed - DemonHunter incorrect tag
+
+Fixed - Witch Doctor missing tag on mastery tab 
+
+
+
+[58 10/25/2016]
+Inquiry - Loot dbrs
+	Removed remaining Skelethon
+	Unable to determine loot malfunction
 
 [57 10/22/2016]
 Update - Grim Quest v1.42
