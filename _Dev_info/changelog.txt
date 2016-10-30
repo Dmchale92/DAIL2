@@ -16,21 +16,33 @@ GDE	57.1.F
 
 To Do:
 ********
+Update - Grimmer/Grimmest 1.0 
 DAIL Stuffs - More?
 Update - Cornucpoia 0.3.2.J (No source yet)
 	Misc minor fixes
 Post 50 mastery investment inquiries
 Update - NCFF 1.10
-Update - GQ 
+Update - GQ (tweaks)
 Update - Zenith (New fx)
 Add - Class +1 Prefixes
 Fix - Relic weapon reqs
 Merge - All source material into one working
+Update - Skills for staff/spear?
+New - X mode!
 ********
 	
 ****************************************************************
 ****************************************************************
 
+[58 10/29/2016]
+
+
+Merged - All play mode resources
+	Simplified database
+		More work on release day, less cross database errors
+
+Fixed - Missing GQ resources
+	GQ relics on faction tables
 
 [58 10/26/2016]
 Inquiry - FK Revenant pet
@@ -50,8 +62,6 @@ Fixed - Fangshi broken tag
 Fixed - DemonHunter incorrect tag
 
 Fixed - Witch Doctor missing tag on mastery tab 
-
-
 
 [58 10/25/2016]
 Inquiry - Loot dbrs
